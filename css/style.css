@@ -1,0 +1,28 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* Override bootstrap classes */
+.btn-honda-primary{
+    background: #E76F51;
+    color: white;
+    padding: 4px 20px;
+}
+.bg-honda-secondary{
+    background-color: #264653;
+}
+.text-honda-secondary{
+    color: rgb(201, 192, 192);
+}
+.text-honda-primary{
+    color: #E76F51;
+}
+
+/* Fetured Bikes styles */
+.img-grayscale{
+  filter: grayscale(100%);
+}
